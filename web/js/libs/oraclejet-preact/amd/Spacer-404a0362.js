@@ -1,0 +1,2 @@
+define(["exports","./tslib.es6-24bf3861","preact/jsx-runtime","./utils/UNSAFE_interpolations/dimensions","./utils/UNSAFE_mergeInterpolations","./utils/UNSAFE_interpolations/flexitem","./flexitem-1405ebe5"],function(e,t,s,i,n,l,o){"use strict";const r=[...Object.values(i.dimensionInterpolations),o.flexitemInterpolations.flex],a=n.mergeInterpolations(r);e.Spacer=e=>{var i=t.__rest(e,[]);const n=a(i),{class:l}=n,o=t.__rest(n,["class"]);return s.jsx("div",{class:l,style:o})}});
+//# sourceMappingURL=Spacer-404a0362.js.map

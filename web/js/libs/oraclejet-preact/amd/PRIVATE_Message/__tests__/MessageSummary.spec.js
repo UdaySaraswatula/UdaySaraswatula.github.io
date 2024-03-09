@@ -1,0 +1,2 @@
+define(["preact/jsx-runtime","@testing-library/preact","chai","../../MessageSummary-1fe58d25","css!./../../PRIVATE_Message.css","../../utils/UNSAFE_classNames","../../classNames-f11010a7"],function(e,s,a,t,n,i,r){"use strict";describe("Test MessageSummary component",()=>{it("text",async function(){const n=s.render(e.jsx(t.MessageSummary,{text:"My Message Summary"})),i=await n.findByText("My Message Summary");a.expect(i).not.null})})});
+//# sourceMappingURL=MessageSummary.spec.js.map

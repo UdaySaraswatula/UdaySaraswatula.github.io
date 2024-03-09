@@ -1,0 +1,2 @@
+define(["exports","./Subheading-892dfa1f","./tslib.es6-24bf3861","preact/jsx-runtime","./utils/UNSAFE_arrayUtils","css!./UNSAFE_Subheading.css","./utils/UNSAFE_mergeInterpolations","./utils/UNSAFE_classNames","./classNames-f11010a7","./_curry1-f9717f1c","./_curry3-01167a7d","./_curry2-c4648b65","./_has-6f4fa2af"],function(e,s,a,i,t,n,r,u,l,f,c,d,b){"use strict";e.Subheading=s.Subheading,e.sizeOptions=s.sizeOptions,e.subheadingElementTypes=s.subheadingElementTypes,Object.defineProperty(e,"__esModule",{value:!0})});
+//# sourceMappingURL=UNSAFE_Subheading.js.map
