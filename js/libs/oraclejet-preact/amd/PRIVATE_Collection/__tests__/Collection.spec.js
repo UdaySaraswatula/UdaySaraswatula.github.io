@@ -1,0 +1,2 @@
+define(["preact/jsx-runtime","@testing-library/preact","chai","../../Collection-0700cc46","preact"],function(e,t,n,c,i){"use strict";describe("Test Collection component",()=>{it("render",async function(){const i=t.render(e.jsx("ul",{children:e.jsx(c.Collection,Object.assign({items:[{id:"e1",name:"Employee 1"},{id:"e2",name:"Employee 2"}]},{children:t=>e.jsx("li",{children:t.data.name})}))})),l=await i.queryAllByText("Employee",{exact:!1});n.expect(l.length).eq(2)})})});
+//# sourceMappingURL=Collection.spec.js.map

@@ -1,0 +1,2 @@
+define(["exports",'module',"./keys-6231193b"],function(i,e,r){"use strict";const s={row:"_14et35h",column:"qezh8d"},n={nowrap:"_1y7mp6r",wrap:"jz6i4c",reverse:"_1wiesc1",inherit:"_12k8bk1",initial:"au6gns"},o={direction:s,wrap:n},t=r.keys_1(s),a=r.keys_1(n),c={direction:({direction:i})=>void 0===i?{}:{class:s[i]},wrap:({wrap:i})=>void 0===i?{}:{class:n[i]}};i.directions=t,i.flexboxInterpolations=c,i.flexboxStyles=o,i.wraps=a});
+//# sourceMappingURL=flexbox-b6c222f9.js.map
