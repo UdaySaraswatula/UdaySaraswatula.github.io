@@ -1,2 +1,0 @@
-define(["../../../flexitem-1405ebe5","chai","css!./../flexitem.css","../../../keys-6231193b","../../../_curry1-f9717f1c","../../../_has-6f4fa2af"],function(e,n,t,f,i,a){"use strict";const{alignSelf:c}=e.flexitemInterpolations;describe("flexitem alignSelf",()=>{[[{},{}],[{foo:"bar"},{}]].forEach(e=>{const[t,f]=e;it(`when ${t} returns ${f}`,async function(){const e=c(t);n.expect(e).to.deep.equal(f)})})})});
-//# sourceMappingURL=flexitem.spec.js.map

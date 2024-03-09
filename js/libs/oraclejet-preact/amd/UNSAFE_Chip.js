@@ -1,2 +1,0 @@
-define(["exports","./Chip-affe03d5","preact/jsx-runtime","./hooks/UNSAFE_useActionable","./utils/UNSAFE_mergeProps","./hooks/UNSAFE_useHover","./hooks/UNSAFE_useToggle","preact/hooks","./hooks/UNSAFE_useActive","./hooks/UNSAFE_useFocus","./hooks/UNSAFE_usePress","css!./UNSAFE_Chip.css","./utils/UNSAFE_classNames","./classNames-f11010a7","./hooks/UNSAFE_useTabbableMode","preact"],function(e,s,o,a,u,i,t,r,c,h,A,N,_,l,F,p){"use strict";e.Chip=s.Chip,Object.defineProperty(e,"__esModule",{value:!0})});
-//# sourceMappingURL=UNSAFE_Chip.js.map

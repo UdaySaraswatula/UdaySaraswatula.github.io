@@ -1,2 +1,0 @@
-define(["exports","./Heading-e3c38ed8","./tslib.es6-24bf3861","preact/jsx-runtime","./keys-6231193b","./_curry1-f9717f1c","./_has-6f4fa2af","./utils/UNSAFE_arrayUtils","css!./UNSAFE_Heading.css","./utils/UNSAFE_mergeInterpolations","./utils/UNSAFE_classNames","./classNames-f11010a7","./_curry3-01167a7d","./_curry2-c4648b65"],function(e,s,i,a,t,n,r,l,c,u,d,f,_,o){"use strict";e.Heading=s.Heading,e.headingElementTypes=s.headingElementTypes,e.sizeOptions=s.sizeOptions,Object.defineProperty(e,"__esModule",{value:!0})});
-//# sourceMappingURL=UNSAFE_Heading.js.map
